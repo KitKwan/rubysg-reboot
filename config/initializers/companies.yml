@@ -1,5 +1,12 @@
 # Please refer to [README.md](https://github.com/rubysg/rubysg-reboot/blob/master/README.md) for the guidelines
-
+-
+  name:       'Principle Partners'
+  website:    'http://www.principle-partners.com'
+  logo_url:   'https://user-images.githubusercontent.com/39610742/48330627-32fa3800-e688-11e8-98c8-f89f17629577.jpg'
+  address:    '212A Telok Ayer Street, Singapore 068645'
+  hiring_url:
+  email:      'kit.kwan@principle-partners.com'
+  updated_on: '2017-11-12'
 -
   name:       'Jolly Good Code'
   website:    'http://www.jollygoodcode.com'
